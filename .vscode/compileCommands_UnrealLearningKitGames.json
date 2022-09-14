@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\Source\\UnrealLearningKitGames\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\.vscode\\compileCommands_UnrealLearningKitGames\\UnrealLearningKitGames.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\Source\\UnrealLearningKitGames\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\.vscode\\compileCommands_UnrealLearningKitGames\\UnrealLearningKitGames.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\Source\\UnrealLearningKitGames\\UnrealLearningKitGames.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\.vscode\\compileCommands_UnrealLearningKitGames\\UnrealLearningKitGames.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\Source\\UnrealLearningKitGames\\UnrealLearningKitGames.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\.vscode\\compileCommands_UnrealLearningKitGames\\UnrealLearningKitGames.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\Source\\UnrealLearningKitGames\\UnrealLearningKitGames.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\david\\OneDrive\\Documents\\UnrealCourseC++\\ObstacleAssault\\UnrealLearningKitGames\\.vscode\\compileCommands_UnrealLearningKitGames\\UnrealLearningKitGames.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
