@@ -19,8 +19,11 @@ void AMovingPlatform::BeginPlay()
 
 	//	For debugging purposes, I can use these options to show info on console.
 	UE_LOG(LogTemp, Display, TEXT("Holis! the distance for this bad boy is: %f"), MoveDistance);
-	UE_LOG(LogTemp, Warning, TEXT("Holis!"));
+	FString Name = GetName();
+	UE_LOG(LogTemp, Warning, TEXT("Holis!, the name of this actor is: %s"), *Name);	//	Converts FString into string
 	UE_LOG(LogTemp, Error, TEXT("Holis!"));
+
+	
 }
 
 // Called every frame
@@ -42,7 +45,8 @@ void AMovingPlatform::Tick(float DeltaTime)
 	if(DistanceMoved > MoveDistance)
 	{
 		float Overshoot = DistanceMoved - MoveDistance;
-		UE_LOG(LogTemp, Display, TEXT("Overshoot value is: %f"), Overshoot)
+		FString NameActor = GetName();
+		UE_LOG(LogTemp, Warning, TEXT("The actor: %s has an overshot value of: %f"), *NameActor, Overshoot)
 		FVector MoveDirection = PlatformVelocity.GetSafeNormal();
 		StartLocation = StartLocation + MoveDirection * MoveDistance;
 		SetActorLocation(StartLocation);
